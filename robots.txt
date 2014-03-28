@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://eigo0109.github.io/sitemap.xml 
