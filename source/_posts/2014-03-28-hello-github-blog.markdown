@@ -3,7 +3,8 @@ layout: post
 title: "hello Github Blog"
 date: 2014-03-28 17:02:15 +0800
 comments: true
-categories: 
+categories: Blog
+tags: [Octopress]
 ---
 
 
