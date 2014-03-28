@@ -4,7 +4,7 @@
   <title><![CDATA[Derek's Blog]]></title>
   <link href="http://eigo0109.github.io/atom.xml" rel="self"/>
   <link href="http://eigo0109.github.io/"/>
-  <updated>2014-03-28T16:43:59+08:00</updated>
+  <updated>2014-03-28T17:12:26+08:00</updated>
   <id>http://eigo0109.github.io/</id>
   <author>
     <name><![CDATA[Derek]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Github Blog]]></title>
+    <link href="http://eigo0109.github.io/blog/2014/03/28/hello-github-blog/"/>
+    <updated>2014-03-28T17:02:15+08:00</updated>
+    <id>http://eigo0109.github.io/blog/2014/03/28/hello-github-blog</id>
+    <content type="html"><![CDATA[<p>今天天气很好</p>
+]]></content>
+  </entry>
   
 </feed>
